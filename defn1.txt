@@ -1,0 +1,468 @@
+Word 'accounting standards' not found. Adding to bad words.
+accounting standards None
+Word 'achieve carbon' not found. Adding to bad words.
+achieve carbon None
+Word 'achieve net' not found. Adding to bad words.
+achieve net None
+Word 'achieve sustainable' not found. Adding to bad words.
+achieve sustainable None
+Word 'action plan' was cached. Not querying the API and returning cached result.
+action plan [{'id': 'action_plan', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['a proposed strategy or course of action'], 'id': 'm_en_gbus0007860.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'action plan'}], 'type': 'headword', 'word': 'action plan'}]
+Word 'actions taken' not found. Adding to bad words.
+actions taken None
+Word 'activities including' not found. Adding to bad words.
+activities including None
+Word 'actual results' not found. Adding to bad words.
+actual results None
+Word 'additional information' not found. Adding to bad words.
+additional information None
+Word 'address climate' not found. Adding to bad words.
+address climate None
+Word 'address risks' not found. Adding to bad words.
+address risks None
+Word 'adverse impacts' not found. Adding to bad words.
+adverse impacts None
+Word 'affordable hosuing' not found. Adding to bad words.
+affordable hosuing None
+Word 'african american' found. Caching result.
+african american [{'id': 'African_American', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['a black American of African descent.'], 'id': 'm_en_gbus0014710.004'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'African American'}, {'entries': [{'senses': [{'definitions': ['relating to black Americans of African descent.'], 'id': 'm_en_gbus0014710.008'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'adjective', 'text': 'Adjective'}, 'text': 'African American'}], 'type': 'headword', 'word': 'African American'}]
+Word 'air quality' found. Caching result.
+air quality [{'id': 'air_quality', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['the degree to which the air in a particular place is pollution-free'], 'id': 'm_en_gbus0018930.004'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'air quality'}], 'type': 'headword', 'word': 'air quality'}]
+Word 'ambitious goals' not found. Adding to bad words.
+ambitious goals None
+Word 'announced new' not found. Adding to bad words.
+announced new None
+Word 'annual basis' not found. Adding to bad words.
+annual basis None
+Word 'annual report' found. Caching result.
+annual report [{'id': 'annual_report', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ["a company's yearly report to shareholders, documenting its activities and finances in the previous financial year"], 'id': 'm_en_gbus0035270.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'annual report'}], 'type': 'headword', 'word': 'annual report'}]
+Word 'annual review' not found. Adding to bad words.
+annual review None
+Word 'annual sustainability' not found. Adding to bad words.
+annual sustainability None
+Word 'anti bribery' not found. Adding to bad words.
+anti bribery None
+Word 'anti competitive' not found. Adding to bad words.
+anti competitive None
+Word 'anti corruption' not found. Adding to bad words.
+anti corruption None
+Word 'artificial intelligence' found. Caching result.
+artificial intelligence [{'id': 'artificial_intelligence', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['the theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.'], 'id': 'm_en_gbus0049620.006'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'artificial intelligence'}], 'type': 'headword', 'word': 'artificial intelligence'}]
+Word 'asia pacific' not found. Adding to bad words.
+asia pacific None
+Word 'assessment process' not found. Adding to bad words.
+assessment process None
+Word 'asset management' found. Caching result.
+asset management [{'id': 'asset_management', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['The active management of assets in order to optimize return on investment.'], 'id': 'm_en_gb_oed11866_36924370.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'asset management'}], 'type': 'headword', 'word': 'asset management'}]
+Word 'assurance statement' not found. Adding to bad words.
+assurance statement None
+Word 'audit committee' found. Caching result.
+audit committee [{'id': 'audit_committee', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['A committee set up by a company or other institution to supervise the auditing of its accounts.'], 'id': 'm_en_gb_oed13035_33757472.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'audit committee'}], 'type': 'headword', 'word': 'audit committee'}]
+Word 'bargaining agreements' not found. Adding to bad words.
+bargaining agreements None
+Word 'based approach' not found. Adding to bad words.
+based approach None
+Word 'based employees' not found. Adding to bad words.
+based employees None
+Word 'based targets' not found. Adding to bad words.
+based targets None
+Word 'benefits provided' not found. Adding to bad words.
+benefits provided None
+Word 'best practice' found. Caching result.
+best practice [{'id': 'best_practice', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['commercial or professional procedures that are accepted or prescribed as being correct or most effective'], 'id': 'm_en_gbus0089700.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'best practice'}], 'type': 'headword', 'word': 'best practice'}]
+Word 'better understand' not found. Adding to bad words.
+better understand None
+Word 'better understanding' not found. Adding to bad words.
+better understanding None
+Word 'board committee' not found. Adding to bad words.
+board committee None
+Word 'board members' not found. Adding to bad words.
+board members None
+Word 'board oversight' not found. Adding to bad words.
+board oversight None
+Word 'board sasb' not found. Adding to bad words.
+board sasb None
+Word 'brands products' not found. Adding to bad words.
+brands products None
+Word 'build sustainable' not found. Adding to bad words.
+build sustainable None
+Word 'business activities' not found. Adding to bad words.
+business activities None
+Word 'business conduct' not found. Adding to bad words.
+business conduct None
+Word 'business continuity' not found. Adding to bad words.
+business continuity None
+Word 'business development' found. Caching result.
+business development [{'id': 'business_development', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['the activity of pursuing strategic opportunities for a particular business or organization, for example by cultivating partnerships or other commercial relationships, or identifying new markets for its products or services'], 'id': 'm_en_gbus0138000.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'business development'}], 'type': 'headword', 'word': 'business development'}]
+Word 'business ethics' not found. Adding to bad words.
+business ethics None
+Word 'business growth' not found. Adding to bad words.
+business growth None
+Word 'business including' not found. Adding to bad words.
+business including None
+Word 'business leaders' not found. Adding to bad words.
+business leaders None
+Word 'business model' found. Caching result.
+business model [{'id': 'business_model', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['a plan for the successful operation of a business, identifying sources of revenue, the intended customer base, products, and details of financing'], 'id': 'm_en_gbus0138070.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'business model'}], 'type': 'headword', 'word': 'business model'}]
+Word 'business objectives' not found. Adding to bad words.
+business objectives None
+Word 'business operations' not found. Adding to bad words.
+business operations None
+Word 'business opportunities' not found. Adding to bad words.
+business opportunities None
+Word 'business partners' not found. Adding to bad words.
+business partners None
+Word 'business performance' not found. Adding to bad words.
+business performance None
+Word 'business practices' not found. Adding to bad words.
+business practices None
+Word 'business relationships' not found. Adding to bad words.
+business relationships None
+Word 'business risk' not found. Adding to bad words.
+business risk None
+Word 'business strategy' not found. Adding to bad words.
+business strategy None
+Word 'business travel' not found. Adding to bad words.
+business travel None
+Word 'business unit' found. Caching result.
+business unit [{'id': 'business_unit', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['a building (typically one of a number of similar buildings) or a self-contained section of a building intended for use as business premises'], 'id': 'm_en_gbus0138160.005'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'business unit'}], 'type': 'headword', 'word': 'business unit'}]
+Word 'calculated based' not found. Adding to bad words.
+calculated based None
+Word 'calendar year' not found. Adding to bad words.
+calendar year None
+Word 'capacity building' not found. Adding to bad words.
+capacity building None
+Word 'capital management' not found. Adding to bad words.
+capital management None
+Word 'capital markets' not found. Adding to bad words.
+capital markets None
+Word 'carbon economy' not found. Adding to bad words.
+carbon economy None
+Word 'carbon emissions' not found. Adding to bad words.
+carbon emissions None
+Word 'carbon energy' not found. Adding to bad words.
+carbon energy None
+Word 'carbon footprint' found. Caching result.
+carbon footprint [{'id': 'carbon_footprint', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['a measure of the amount of carbon dioxide released into the atmosphere as a result of the activities of a particular individual, organization, or community.'], 'id': 'm_en_gbus0151980.004'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'carbon footprint'}], 'type': 'headword', 'word': 'carbon footprint'}]
+Word 'carbon intensity' not found. Adding to bad words.
+carbon intensity None
+Word 'carbon intensive' not found. Adding to bad words.
+carbon intensive None
+Word 'carbon neutral' not found. Adding to bad words.
+carbon neutral None
+Word 'carbon neutrality' not found. Adding to bad words.
+carbon neutrality None
+Word 'carbon reduction' not found. Adding to bad words.
+carbon reduction None
+Word 'carbon transition' not found. Adding to bad words.
+carbon transition None
+Word 'career development' not found. Adding to bad words.
+career development None
+Word 'career opportunities' not found. Adding to bad words.
+career opportunities None
+Word 'case studies' not found. Adding to bad words.
+case studies None
+Word 'cash flow' found. Caching result.
+cash flow [{'id': 'cash_flow', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['the total amount of money being transferred into and out of a business, especially as affecting liquidity.'], 'id': 'm_en_gbus0156930.004'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'cash flow'}], 'type': 'headword', 'word': 'cash flow'}]
+Word 'cdp climate' not found. Adding to bad words.
+cdp climate None
+Word 'challenges facing' not found. Adding to bad words.
+challenges facing None
+Word 'chief executive' not found. Adding to bad words.
+chief executive None
+Word 'chief financial' not found. Adding to bad words.
+chief financial None
+Word 'chief information' not found. Adding to bad words.
+chief information None
+Word 'child labor' not found. Adding to bad words.
+child labor None
+Word 'circular economy' found. Caching result.
+circular economy [{'id': 'circular_economy', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['an economic system based on the reuse and regeneration of materials or products, especially as a means of continuing production in a sustainable or environmentally friendly way.'], 'id': 'm_en_gbus1205607.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'circular economy'}], 'type': 'headword', 'word': 'circular economy'}]
+Word 'civil society' found. Caching result.
+civil society [{'id': 'civil_society', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['society considered as a community of citizens linked by common interests and collective activity'], 'id': 'm_en_gbus0186550.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'civil society'}], 'type': 'headword', 'word': 'civil society'}]
+Word 'clean energy' not found. Adding to bad words.
+clean energy None
+Word 'clean technology' not found. Adding to bad words.
+clean technology None
+Word 'clean water' not found. Adding to bad words.
+clean water None
+Word 'climate action' found. Caching result.
+climate action [{'id': 'climate_action', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['practical efforts to mitigate the effects of climate change by individual acts or political measures'], 'id': 'm_en_gbus1205179.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'climate action'}], 'type': 'headword', 'word': 'climate action'}]
+Word 'climate change' found. Caching result.
+climate change [{'id': 'climate_change', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['a change in global or regional climate patterns, in particular a change apparent from the mid to late 20th century onwards and attributed largely to the increased levels of atmospheric carbon dioxide produced by the use of fossil fuels.'], 'id': 'm_en_gbus0189970.003'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'climate change'}], 'type': 'headword', 'word': 'climate change'}]
+Word 'climate crisis' found. Caching result.
+climate crisis [{'id': 'climate_crisis', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['a situation characterized by the threat of highly dangerous, irreversible changes to the global climate'], 'id': 'm_en_gbus1200902.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'climate crisis'}], 'type': 'headword', 'word': 'climate crisis'}]
+Word 'climate related' not found. Adding to bad words.
+climate related None
+Word 'climate risks' not found. Adding to bad words.
+climate risks None
+Word 'collective action' not found. Adding to bad words.
+collective action None
+Word 'collective bargaining' found. Caching result.
+collective bargaining [{'id': 'collective_bargaining', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['negotiation of wages and other conditions of employment by an organized body of employees.'], 'id': 'm_en_gbus0199560.004'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'collective bargaining'}], 'type': 'headword', 'word': 'collective bargaining'}]
+Word 'coming years' not found. Adding to bad words.
+coming years None
+Word 'committee charter' not found. Adding to bad words.
+committee charter None
+Word 'committee overseas' not found. Adding to bad words.
+committee overseas None
+Word 'committee reviews' not found. Adding to bad words.
+committee reviews None
+Word 'communities including' not found. Adding to bad words.
+communities including None
+Word 'community based' not found. Adding to bad words.
+community based None
+Word 'community development' found. Caching result.
+community development [{'id': 'community_development', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['The improvement of the condition of a particular area or community, especially with regard to health, housing, education, etc. (frequently attributive).'], 'id': 'm_en_gb_oed37337_130160888.004'}, {'definitions': ['A housing development designed to foster a sense of community amongst residents, especially through the provision of shops, schools, leisure facilities, communal areas, etc.'], 'id': 'm_en_gb_oed37337_130160888.005'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'community development'}], 'type': 'headword', 'word': 'community development'}]
+Word 'community engagement' not found. Adding to bad words.
+community engagement None
+Word 'community investment' not found. Adding to bad words.
+community investment None
+Word 'compact ungc' not found. Adding to bad words.
+compact ungc None
+Word 'company operations' not found. Adding to bad words.
+company operations None
+Word 'company performance' not found. Adding to bad words.
+company performance None
+Word 'compliance program' not found. Adding to bad words.
+compliance program None
+Word 'compulsory labor' not found. Adding to bad words.
+compulsory labor None
+Word 'concerns raised' not found. Adding to bad words.
+concerns raised None
+Word 'conduct business' not found. Adding to bad words.
+conduct business None
+Word 'consecutive year' not found. Adding to bad words.
+consecutive year None
+Word 'consolidated financial' not found. Adding to bad words.
+consolidated financial None
+Word 'continuous improvement' not found. Adding to bad words.
+continuous improvement None
+Word 'continuously improve' not found. Adding to bad words.
+continuously improve None
+Word 'core values' not found. Adding to bad words.
+core values None
+Word 'corporate governance' not found. Adding to bad words.
+corporate governance None
+Word 'corporate level' not found. Adding to bad words.
+corporate level None
+Word 'corporate strategy' not found. Adding to bad words.
+corporate strategy None
+Word 'corrective action' not found. Adding to bad words.
+corrective action None
+Word 'create new' not found. Adding to bad words.
+create new None
+Word 'critical role' not found. Adding to bad words.
+critical role None
+Word 'cross functional' not found. Adding to bad words.
+cross functional None
+Word 'customer data' not found. Adding to bad words.
+customer data None
+Word 'customer experience' found. Caching result.
+customer experience [{'id': 'customer_experience', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['Experience of dealing with or serving customers.'], 'id': 'm_en_gb_oed46319_1208395570.004'}, {'definitions': ["(Now more commonly) a customer's experience of the assistance, quality of service, etc., provided by a business, or of a particular product or service; now usually as a mass noun."], 'id': 'm_en_gb_oed46319_1208395570.005'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'customer experience'}], 'type': 'headword', 'word': 'customer experience'}]
+Word 'customer information' not found. Adding to bad words.
+customer information None
+Word 'customer privacy' not found. Adding to bad words.
+customer privacy None
+Word 'customer service' found. Caching result.
+customer service [{'id': 'customer_service', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['the assistance and advice provided by a company to those people who buy or use its products or services.'], 'id': 'm_en_gbus0243690.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'customer service'}], 'type': 'headword', 'word': 'customer service'}]
+Word 'customers employees' not found. Adding to bad words.
+customers employees None
+Word 'customers suppliers' not found. Adding to bad words.
+customers suppliers None
+Word 'cutting edge' found. Caching result.
+cutting edge [{'id': 'cutting_edge', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ["the edge of a tool's blade"], 'id': 'm_en_gbus0244180.005'}, {'definitions': ['the latest or most advanced stage in the development of something'], 'id': 'm_en_gbus0244180.009'}, {'definitions': ['a dynamic or invigorating quality'], 'id': 'm_en_gbus0244180.012'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'cutting edge'}, {'entries': [{'senses': [{'definitions': ['highly advanced; innovative or pioneering'], 'id': 'm_en_gbus0244180.016'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'adjective', 'text': 'Adjective'}, 'text': 'cutting edge'}], 'type': 'headword', 'word': 'cutting edge'}]
+Word 'data analytics' not found. Adding to bad words.
+data analytics None
+Word 'data center' not found. Adding to bad words.
+data center None
+Word 'data driven' not found. Adding to bad words.
+data driven None
+Word 'data privacy' not found. Adding to bad words.
+data privacy None
+Word 'data protection' found. Caching result.
+data protection [{'id': 'data_protection', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['legal control over access to and use of data stored in computers'], 'id': 'm_en_gbus0251580.003'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'data protection'}], 'type': 'headword', 'word': 'data protection'}]
+Word 'data security' not found. Adding to bad words.
+data security None
+Word 'decision making' not found. Adding to bad words.
+decision making None
+Word 'defined benefit' not found. Adding to bad words.
+defined benefit None
+Word 'defining report' not found. Adding to bad words.
+defining report None
+Word 'detailed information' not found. Adding to bad words.
+detailed information None
+Word 'developing countries' not found. Adding to bad words.
+developing countries None
+Word 'development goals' not found. Adding to bad words.
+development goals None
+Word 'development opportunities' not found. Adding to bad words.
+development opportunities None
+Word 'development plans' not found. Adding to bad words.
+development plans None
+Word 'differ materially' not found. Adding to bad words.
+differ materially None
+Word 'digital solutions' not found. Adding to bad words.
+digital solutions None
+Word 'digital tools' not found. Adding to bad words.
+digital tools None
+Word 'direct scope' not found. Adding to bad words.
+direct scope None
+Word 'disclosures tcfd' not found. Adding to bad words.
+disclosures tcfd None
+Word 'discrimination harassment' not found. Adding to bad words.
+discrimination harassment None
+Word 'diverse perspectives' not found. Adding to bad words.
+diverse perspectives None
+Word 'diverse suppliers' not found. Adding to bad words.
+diverse suppliers None
+Word 'diverse talent' not found. Adding to bad words.
+diverse talent None
+Word 'diverse workforce' not found. Adding to bad words.
+diverse workforce None
+Word 'diversity equity' not found. Adding to bad words.
+diversity equity None
+Word 'doing business' not found. Adding to bad words.
+doing business None
+Word 'economic growth' found. Caching result.
+economic growth [{'id': 'economic_growth', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['an increase in the amount of goods and services produced per head of the population over a period of time'], 'id': 'm_en_gbus0310790.002'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'economic growth'}], 'type': 'headword', 'word': 'economic growth'}]
+Word 'economic impacts' not found. Adding to bad words.
+economic impacts None
+Word 'economic performance' not found. Adding to bad words.
+economic performance None
+Word 'economic recovery' not found. Adding to bad words.
+economic recovery None
+Word 'efficiency improvements' not found. Adding to bad words.
+efficiency improvements None
+Word 'electricity consumption' not found. Adding to bad words.
+electricity consumption None
+Word 'emission factor' not found. Adding to bad words.
+emission factor None
+Word 'emissions associated' not found. Adding to bad words.
+emissions associated None
+Word 'emissions intensity' not found. Adding to bad words.
+emissions intensity None
+Word 'emissions related' not found. Adding to bad words.
+emissions related None
+Word 'emissions scope' not found. Adding to bad words.
+emissions scope None
+Word 'employee assistance' not found. Adding to bad words.
+employee assistance None
+Word 'employee engagement' not found. Adding to bad words.
+employee engagement None
+Word 'employee health' not found. Adding to bad words.
+employee health None
+Word 'employee hires' not found. Adding to bad words.
+employee hires None
+Word 'employee population' not found. Adding to bad words.
+employee population None
+Word 'employee satisfaction' not found. Adding to bad words.
+employee satisfaction None
+Word 'employee turnover' not found. Adding to bad words.
+employee turnover None
+Word 'employees communities' not found. Adding to bad words.
+employees communities None
+Word 'employees customers' not found. Adding to bad words.
+employees customers None
+Word 'employees feel' not found. Adding to bad words.
+employees feel None
+Word 'employees including' not found. Adding to bad words.
+employees including None
+Word 'encourage employees' not found. Adding to bad words.
+encourage employees None
+Word 'energy consumption' not found. Adding to bad words.
+energy consumption None
+Word 'energy efficient' not found. Adding to bad words.
+energy efficient None
+Word 'energy generation' not found. Adding to bad words.
+energy generation None
+Word 'energy indirect' not found. Adding to bad words.
+energy indirect None
+Word 'energy intensity' not found. Adding to bad words.
+energy intensity None
+Word 'energy management' not found. Adding to bad words.
+energy management None
+Word 'energy related' not found. Adding to bad words.
+energy related None
+Word 'energy savings' not found. Adding to bad words.
+energy savings None
+Word 'energy sources' not found. Adding to bad words.
+energy sources None
+Word 'energy use' not found. Adding to bad words.
+energy use None
+Word 'energy water' not found. Adding to bad words.
+energy water None
+Word 'enterprise risk' not found. Adding to bad words.
+enterprise risk None
+Word 'entities included' not found. Adding to bad words.
+entities included None
+Word 'entry level' not found. Adding to bad words.
+entry level None
+Word 'environmental assessment' not found. Adding to bad words.
+environmental assessment None
+Word 'environmental challenges' not found. Adding to bad words.
+environmental challenges None
+Word 'environmental data' not found. Adding to bad words.
+environmental data None
+Word 'environmental footprint' not found. Adding to bad words.
+environmental footprint None
+Word 'environmental impacts' not found. Adding to bad words.
+environmental impacts None
+Word 'environmental management' found. Caching result.
+environmental management [{'id': 'environmental_management', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['manipulation of the physical or social environment of a person or group.'], 'id': 'm_en_gb_oed63090_117084928.004'}, {'definitions': ['Management of human impact on the environment, especially with the intention of preserving natural resources.'], 'id': 'm_en_gb_oed63090_117084928.005'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'environmental management'}], 'type': 'headword', 'word': 'environmental management'}]
+Word 'environmental performance' not found. Adding to bad words.
+environmental performance None
+Word 'environmental protection' not found. Adding to bad words.
+environmental protection None
+Word 'environmental responsibility' not found. Adding to bad words.
+environmental responsibility None
+Word 'environmental risks' not found. Adding to bad words.
+environmental risks None
+Word 'environmental social' not found. Adding to bad words.
+environmental social None
+Word 'environmental sustainability' not found. Adding to bad words.
+environmental sustainability None
+Word 'equal employment' not found. Adding to bad words.
+equal employment None
+Word 'equal pay' not found. Adding to bad words.
+equal pay None
+Word 'equality index' not found. Adding to bad words.
+equality index None
+Word 'esg factors' not found. Adding to bad words.
+esg factors None
+Word 'esg goals' not found. Adding to bad words.
+esg goals None
+Word 'esg governance' not found. Adding to bad words.
+esg governance None
+Word 'esg initiatives' not found. Adding to bad words.
+esg initiatives None
+Word 'esg issues' not found. Adding to bad words.
+esg issues None
+Word 'esg matters' not found. Adding to bad words.
+esg matters None
+Word 'esg performance' not found. Adding to bad words.
+esg performance None
+Word 'esg reporting' not found. Adding to bad words.
+esg reporting None
+Word 'esg topics' not found. Adding to bad words.
+esg topics None
+Word 'ethical business' not found. Adding to bad words.
+ethical business None
+Word 'ethical conduct' not found. Adding to bad words.
+ethical conduct None
+Word 'ethical standards' not found. Adding to bad words.
+ethical standards None
+Word 'europe middle' not found. Adding to bad words.
+europe middle None
+Word 'european union' found. Caching result.
+european union [{'id': 'European_Union', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['an economic and political association of certain European countries as a unit with internal free trade and common external tariffs.'], 'id': 'm_en_gbus0336790.007'}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'European Union'}], 'type': 'headword', 'word': 'European Union'}]
+Word 'executive compensation' not found. Adding to bad words.
+executive compensation None
+Word 'executive leadership' not found. Adding to bad words.
+executive leadership None
+Word 'executive level' not found. Adding to bad words.
+executive level None
+Word 'executive management' not found. Adding to bad words.
+executive management None
+Word 'executive officer' found. Caching result.
+executive officer [{'id': 'executive_officer', 'language': 'en-gb', 'lexicalEntries': [{'entries': [{'senses': [{'definitions': ['an officer with executive power'], 'id': 'm_en_gbus0340480.005', 'subsenses': [{'definitions': ['(in naval vessels and some other military contexts) the officer who is second in command to the captain or commanding officer.'], 'id': 'm_en_gbus0340480.008'}]}]}], 'language': 'en-gb', 'lexicalCategory': {'id': 'noun', 'text': 'Noun'}, 'text': 'executive officer'}], 'type': 'headword', 'word': 'executive officer'}]
